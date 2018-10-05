@@ -1,0 +1,1 @@
+# woo-default-product-image
